@@ -1,5 +1,5 @@
-tensorflow 
-keras 
-pickle
-nltk
-flask
+tensorflow==2.13.0
+keras==2.13.1
+pickleshare==0.7.5
+nltk==3.8.1
+flask==2.2.2
